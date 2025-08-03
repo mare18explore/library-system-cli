@@ -1,0 +1,4 @@
+# need to install this to run code
+requests
+colorama
+bcrypt

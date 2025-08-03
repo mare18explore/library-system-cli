@@ -1,0 +1,9 @@
+# OS junk
+.DS_Store
+__MACOSX/
+
+# Python
+__pycache__/
+*.pyc
+
+data/library.db
