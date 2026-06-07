@@ -2,7 +2,7 @@
 
 A Python-based command-line library system that allows users to search for books, borrow and return them, pay penalties, and leave reviews. The system also integrates with the [Open Library API](https://openlibrary.org/developers/api) to fetch real book data and populate the catalog.
 
-This is a modular, menu-driven application designed for learning and demo purposes — with support for authentication, penalty tracking, borrowing records, and review features.
+This is a modular, menu-driven application — with support for authentication, penalty tracking, borrowing records, and review features.
 
 ## Features
 
@@ -33,6 +33,3 @@ pip install -r requirements.txt
 sqlite3 data/library.db < schema.sql
 python3 main.py
 ```
-## Author
-Created by Abdi Mare
-GitHub: @mare18explore
